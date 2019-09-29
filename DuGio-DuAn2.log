@@ -1,0 +1,44 @@
+## Môn dự án 2: dự giờ lớp Tuấn.
+
+- Output: đồ án
+- Công việc:
+    - Chia nhóm.
+    - Làm 1 trang web: thương mại điện tử: tin tức, du lịch ...
+    - Output: 1 trang web hoàn chỉnh, bao gồm chia nhóm, lên ý tưởng, lí do đưa ra ý tưởng ...
+
+1. Chia nhóm
+- 1 nhóm 3-4 người, chủ động chọn nhóm.
+- Đưa ra ý tưởng. Lí do. Khối lượng công việc phù hợp vs số người.
+- Buổi 1: lên ý tưởng.
+- Các giai đoạn lên ý tưởng:
+    - Làm tn để đưa ra được ý tưởng này.
+    - Đưa ra các dự án tương tự, phân tích nhược điểm.
+        ---> đưa ra các chức năng mở rộng, tạo sức hút KH.
+    - Đối tượng sử dụng của dự án là ai?
+    vd: trang iap: đào tạo, sv, gv...
+
+    - Giới thiệu chức năng, phân tích thị trường: tạo survey, fake data,
+        dựa vào các survey trên mạng của các hãng lớn ...
+    - Phân tích tính năng các trang tương tự -> phân tích ưu điểm, nhược điểm
+    - Mục đích của các trang đó phục vụ cho các đối tượng nào?
+
+- Cho sv đặt câu hỏi
+- vd: bán đồ da: túi ví cặp ...
+    - nảy ra ý tưởng: bán cho ai. 
+        -> phát triển thành hệ thống cho nhiều người bán -> mỗi người 1 gian hàng ...
+- Buổi sau nộp bản mô tả ý tưởng.
+- Chia nhóm: 10p. 5p xử lí các sv chưa có nhóm.
+    ---> output: Tên nhóm, thông tin cá nhân: mã sv, tên, email, sdt ...
+
+- Bảo vệ:
+    - Bảo vệ trước hội đồng.
+    - Bảo vệ theo nhóm, điểm theo cá nhân.
+    - Cuối tháng 11 bảo vệ, fail -> có cơ hội vào tháng 12.
+    - Trong quá trình làm dự án, nhóm/cá nhân nào ko đảm bảo -> bị đánh fail luôn.
+    - Phân chia công việc trong nhóm: kể cả slide, tài liệu...
+        báo cáo: mỗi người làm 1 phần, code: mỗi người làm 1 phần.
+
+    - Làm cả Unit Test, TestCase.
+- 30p nghĩ ý tưởng.
+    - Lí do đưa ra ý tưởng.
+    - Dự án tương tự, Đối tượng.
